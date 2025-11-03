@@ -1,0 +1,26 @@
+# Distribution / packaging
+dist/
+*.zip
+
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.tmp
+
+# Environment
+.env
+.env.local
